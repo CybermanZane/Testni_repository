@@ -1,0 +1,1 @@
+Uradićemo poslije nešto sa njim samo da pushamo sa Localnog repositorija na Remote repository.
